@@ -1,5 +1,6 @@
 # Image_Acqusition-_using_Web_Camera
-
+# register number:212223240161
+# name:subikshan p
 ## Aim:
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 
